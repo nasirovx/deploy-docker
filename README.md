@@ -32,4 +32,4 @@ cd deploy_django
 docker-compose up --build
 Приложение будет доступно по адресу:
 
-http://localhost:8000 или http://ваш ipv4:8000 
+http://localhost:8000 или http:// "ваш ipv4" :8000 
